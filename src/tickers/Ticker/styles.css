@@ -2,11 +2,13 @@
   display: flex;
   background-color: #0c0e15;
   width: 100%;
-  justify-content: flex-start;
+  overflow: hidden;
+  flex: 0 0 100%;
 }
 
 .ticker-list {
   display: flex;
+  flex: 0 0 100%;
   width: 100%;
   animation: ticker 15s infinite linear;
 }

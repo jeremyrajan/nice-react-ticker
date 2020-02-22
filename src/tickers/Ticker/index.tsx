@@ -6,6 +6,7 @@ interface TickerListProps {
   name?: string;
   slideSpeed: number;
   visibleItems: number;
+  isNewsTicker?: boolean;
 }
 
 const TickerList: React.FunctionComponent<TickerListProps> = (props) => {
@@ -13,9 +14,12 @@ const TickerList: React.FunctionComponent<TickerListProps> = (props) => {
     <div className={styles['ticker-list']}>
       {props.children}
     </div>
-    <div className={styles['ticker-list']}>
-      {props.children}
-    </div>
+    {!props.isNewsTicker ?
+      <div className={styles['ticker-list']}>
+        {props.children}
+      </div>
+      : ''
+    }
   </div>
 }
 

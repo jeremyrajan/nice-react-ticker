@@ -1,0 +1,35 @@
+.newsticker {
+  min-width: 40%;
+  padding: 0.5rem;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  font-size: 13px;
+}
+
+.newsWrapper {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  align-items: flex-start;
+}
+
+.title {
+  text-overflow: ellipsis;
+  word-wrap: none;
+  white-space: nowrap;
+  max-width: auto;
+  overflow: hidden;
+}
+
+.meta {
+  font-size: 10px;
+}
+
+.icon {
+  width: 25px;
+}
+
+.icon img {
+  width: 100%;
+}
