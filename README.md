@@ -11,6 +11,8 @@
 npm install --save nice-react-ticker
 ```
 
+**Demo**: https://jeremyrajan.github.io/nice-react-ticker/
+
 ## Usage
 
 The library provides with 2 kinds of tickers:
