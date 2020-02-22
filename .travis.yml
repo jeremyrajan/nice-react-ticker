@@ -7,6 +7,7 @@ deploy:
   - provider: npm
     email: "jeremyrajan@gmail.com"
     api_key: $NPM_TOKEN
+    edge: true
     on:
       tags: true
   - provider: pages
