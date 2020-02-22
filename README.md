@@ -18,7 +18,7 @@ The library provides with 2 kinds of tickers:
 1. Financial Ticker: Heavily inspired from https://www.tradingview.com/
 2. News Ticker: Lightweight news ticker
 
-You can refer to the demo below for the props and refer to `/examples` folder for implementation.
+You can refer to the demo below for the props and refer to `/example` folder for implementation.
 
 ```tsx
 import React, { Component } from 'react'
