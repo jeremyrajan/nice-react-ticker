@@ -2,10 +2,9 @@ import * as React from 'react';
 import styles from './styles.css';
 
 interface TickerListProps {
-  show: boolean;
   name?: string;
-  slideSpeed: number;
-  visibleItems: number;
+  slideSpeed?: number; // @TODO not implemented
+  visibleItems?: number; // @TODO not implemented
   isNewsTicker?: boolean;
 }
 
