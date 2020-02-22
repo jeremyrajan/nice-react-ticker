@@ -2,4 +2,17 @@ language: node_js
 node_js:
   - 12
 after_success:
-  - npm run deploy
+  - cd example && npm install && npm run build
+deploy:
+  - provider: npm
+    email: "jeremyrajan@gmail.com"
+    api_key: $NPM_TOKEN
+    on:
+      tags: true
+  - provider: pages
+    skip_cleanup: true
+    github_token: $GITHUB_TOKEN
+    keep_history: true
+    local_dir: 'example/build'
+    on:
+      branch: master
