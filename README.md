@@ -15,12 +15,12 @@ npm install --save nice-react-ticker
 ```tsx
 import * as React from 'react'
 
-import MyComponent from 'nice-react-ticker'
+import NiceTicker from 'nice-react-ticker'
 
 class Example extends React.Component {
   render () {
     return (
-      <MyComponent />
+      <NiceTicker />
     )
   }
 }

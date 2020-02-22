@@ -1,0 +1,44 @@
+.tickerItemFinancial {
+  padding: 10px 15px;
+  height: 50px;
+  width: 180px;
+}
+
+.tickerTopLevel {
+  display: flex;
+  text-transform: uppercase;
+  font-size: 12px;
+  height: 20px;
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+}
+
+.tickerStats {
+  display: flex;
+}
+
+.tickerInfo {
+  display: flex;
+  align-items: baseline;
+  margin-left: 0.2rem;
+}
+
+.tickerChangePercentage {
+  font-size: 22px;
+  line-height: 26px;
+}
+
+.tickerCurrentPrice {
+  font-size: 12px;
+  margin: 0 0 0 8px;
+}
+
+.tickerChangeNegative {
+  color: #ef5350;
+}
+
+.tickerChangePositive {
+  color: #26a69a;
+}
