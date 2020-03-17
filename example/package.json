@@ -8,7 +8,7 @@
     "prop-types": "^15.6.2",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
-    "react-scripts": "^1.1.4",
+    "react-scripts": "^3.0.0",
     "nice-react-ticker": "file:.."
   },
   "scripts": {
