@@ -1,8 +1,10 @@
 language: node_js
 node_js:
-  - 12
+  - 16
 after_success:
   - cd example && npm install && npm run build
+before_deploy:
+  - cd ..
 deploy:
   - provider: npm
     email: "jeremyrajan@gmail.com"
@@ -14,6 +16,6 @@ deploy:
     skip_cleanup: true
     github_token: $GITHUB_TOKEN
     keep_history: true
-    local_dir: 'example/build'
+    local_dir: "example/build"
     on:
       branch: master
