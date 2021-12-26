@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,SACA,UACA,sBAAwB,CAG1B,YACE,kBACA,SACA,UAAY","file":"static/css/main.e0c3c9da.css","sourcesContent":["body {\n  margin: 0;\n  padding: 0;\n  font-family: sans-serif;\n}\n\n.newsticker {\n  position: absolute;\n  bottom: 0;\n  width: 100%;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/index.css"],"sourceRoot":""}
