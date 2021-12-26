@@ -1,13 +1,13 @@
 {
-  "files": {
-    "main.css": "/nice-react-ticker/static/css/main.cbde69ac.css",
-    "main.js": "/nice-react-ticker/static/js/main.fd0715c0.js",
-    "index.html": "/nice-react-ticker/index.html",
-    "main.cbde69ac.css.map": "/nice-react-ticker/static/css/main.cbde69ac.css.map",
-    "main.fd0715c0.js.map": "/nice-react-ticker/static/js/main.fd0715c0.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.cbde69ac.css",
-    "static/js/main.fd0715c0.js"
-  ]
+  "main.css": "/nice-react-ticker/static/css/main.7de24174.chunk.css",
+  "main.js": "/nice-react-ticker/static/js/main.f98b4a37.chunk.js",
+  "main.js.map": "/nice-react-ticker/static/js/main.f98b4a37.chunk.js.map",
+  "static/js/1.2f6976e1.chunk.js": "/nice-react-ticker/static/js/1.2f6976e1.chunk.js",
+  "static/js/1.2f6976e1.chunk.js.map": "/nice-react-ticker/static/js/1.2f6976e1.chunk.js.map",
+  "runtime~main.js": "/nice-react-ticker/static/js/runtime~main.a3336d87.js",
+  "runtime~main.js.map": "/nice-react-ticker/static/js/runtime~main.a3336d87.js.map",
+  "static/css/main.7de24174.chunk.css.map": "/nice-react-ticker/static/css/main.7de24174.chunk.css.map",
+  "index.html": "/nice-react-ticker/index.html",
+  "precache-manifest.a2d1802fcc276bf0824ccdca044cfca3.js": "/nice-react-ticker/precache-manifest.a2d1802fcc276bf0824ccdca044cfca3.js",
+  "service-worker.js": "/nice-react-ticker/service-worker.js"
 }
