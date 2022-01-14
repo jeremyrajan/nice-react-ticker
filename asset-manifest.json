@@ -1,13 +1,20 @@
 {
-  "main.css": "/nice-react-ticker/static/css/main.6a561e79.chunk.css",
-  "main.js": "/nice-react-ticker/static/js/main.3f519291.chunk.js",
-  "main.js.map": "/nice-react-ticker/static/js/main.3f519291.chunk.js.map",
-  "runtime~main.js": "/nice-react-ticker/static/js/runtime~main.3d7d612e.js",
-  "runtime~main.js.map": "/nice-react-ticker/static/js/runtime~main.3d7d612e.js.map",
-  "static/js/2.3e0db88e.chunk.js": "/nice-react-ticker/static/js/2.3e0db88e.chunk.js",
-  "static/js/2.3e0db88e.chunk.js.map": "/nice-react-ticker/static/js/2.3e0db88e.chunk.js.map",
-  "index.html": "/nice-react-ticker/index.html",
-  "precache-manifest.146364754d61d08a328c0a3c5a15d220.js": "/nice-react-ticker/precache-manifest.146364754d61d08a328c0a3c5a15d220.js",
-  "service-worker.js": "/nice-react-ticker/service-worker.js",
-  "static/css/main.6a561e79.chunk.css.map": "/nice-react-ticker/static/css/main.6a561e79.chunk.css.map"
+  "files": {
+    "main.css": "/nice-react-ticker/static/css/main.018b3e62.chunk.css",
+    "main.js": "/nice-react-ticker/static/js/main.29802d38.chunk.js",
+    "main.js.map": "/nice-react-ticker/static/js/main.29802d38.chunk.js.map",
+    "runtime-main.js": "/nice-react-ticker/static/js/runtime-main.c359afaf.js",
+    "runtime-main.js.map": "/nice-react-ticker/static/js/runtime-main.c359afaf.js.map",
+    "static/js/2.bfedf59b.chunk.js": "/nice-react-ticker/static/js/2.bfedf59b.chunk.js",
+    "static/js/2.bfedf59b.chunk.js.map": "/nice-react-ticker/static/js/2.bfedf59b.chunk.js.map",
+    "index.html": "/nice-react-ticker/index.html",
+    "static/css/main.018b3e62.chunk.css.map": "/nice-react-ticker/static/css/main.018b3e62.chunk.css.map",
+    "static/js/2.bfedf59b.chunk.js.LICENSE.txt": "/nice-react-ticker/static/js/2.bfedf59b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c359afaf.js",
+    "static/js/2.bfedf59b.chunk.js",
+    "static/css/main.018b3e62.chunk.css",
+    "static/js/main.29802d38.chunk.js"
+  ]
 }
