@@ -1,13 +1,13 @@
 {
-  "main.css": "/nice-react-ticker/static/css/main.7de24174.chunk.css",
-  "main.js": "/nice-react-ticker/static/js/main.f98b4a37.chunk.js",
-  "main.js.map": "/nice-react-ticker/static/js/main.f98b4a37.chunk.js.map",
-  "static/js/1.2f6976e1.chunk.js": "/nice-react-ticker/static/js/1.2f6976e1.chunk.js",
-  "static/js/1.2f6976e1.chunk.js.map": "/nice-react-ticker/static/js/1.2f6976e1.chunk.js.map",
-  "runtime~main.js": "/nice-react-ticker/static/js/runtime~main.a3336d87.js",
-  "runtime~main.js.map": "/nice-react-ticker/static/js/runtime~main.a3336d87.js.map",
-  "static/css/main.7de24174.chunk.css.map": "/nice-react-ticker/static/css/main.7de24174.chunk.css.map",
+  "main.css": "/nice-react-ticker/static/css/main.6a561e79.chunk.css",
+  "main.js": "/nice-react-ticker/static/js/main.3f519291.chunk.js",
+  "main.js.map": "/nice-react-ticker/static/js/main.3f519291.chunk.js.map",
+  "runtime~main.js": "/nice-react-ticker/static/js/runtime~main.3d7d612e.js",
+  "runtime~main.js.map": "/nice-react-ticker/static/js/runtime~main.3d7d612e.js.map",
+  "static/js/2.3e0db88e.chunk.js": "/nice-react-ticker/static/js/2.3e0db88e.chunk.js",
+  "static/js/2.3e0db88e.chunk.js.map": "/nice-react-ticker/static/js/2.3e0db88e.chunk.js.map",
   "index.html": "/nice-react-ticker/index.html",
-  "precache-manifest.a2d1802fcc276bf0824ccdca044cfca3.js": "/nice-react-ticker/precache-manifest.a2d1802fcc276bf0824ccdca044cfca3.js",
-  "service-worker.js": "/nice-react-ticker/service-worker.js"
+  "precache-manifest.146364754d61d08a328c0a3c5a15d220.js": "/nice-react-ticker/precache-manifest.146364754d61d08a328c0a3c5a15d220.js",
+  "service-worker.js": "/nice-react-ticker/service-worker.js",
+  "static/css/main.6a561e79.chunk.css.map": "/nice-react-ticker/static/css/main.6a561e79.chunk.css.map"
 }
