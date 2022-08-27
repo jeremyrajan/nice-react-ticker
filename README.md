@@ -58,6 +58,11 @@ export default class App extends Component {
 
 ```
 
+### `Ticker` Options
+
+1. `slideSpeed`: Speed in seconds for the animation
+2. `isNewsTicker`: Toggle between finance and news ticker
+
 ## License
 
 MIT © [jeremyrajan](https://github.com/jeremyrajan)

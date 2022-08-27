@@ -1,6 +1,6 @@
 {
   "name": "nice-react-ticker",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Nicest react ticker in town",
   "author": "jeremyrajan",
   "license": "MIT",
@@ -40,6 +40,7 @@
     "gh-pages": "^4.0.0",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^28.0.1",
+    "jest-environment-jsdom": "^29.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "rollup": "^2.78.1",

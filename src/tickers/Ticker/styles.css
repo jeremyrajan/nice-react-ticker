@@ -4,13 +4,34 @@
   width: 100%;
   overflow: hidden;
   flex: 0 0 100%;
+
+  --gap: 1rem;
+  position: relative;
+  display: flex;
+  overflow: hidden;
+  user-select: none;
+  gap: var(--gap);
 }
 
 .ticker-list {
   display: flex;
   flex: 0 0 100%;
   width: 100%;
-  animation: ticker 15s infinite linear;
+
+  flex-shrink: 0;
+  display: flex;
+  /* justify-content: space-around; */
+  min-width: 100%;
+}
+
+@keyframes scroll {
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(calc(-100% - var(--gap)));
+  }
 }
 
 .ticker:hover .ticker-list {
@@ -33,6 +54,7 @@
   position: relative;
   vertical-align: top;
   color: #fff;
+  width: 100%;
 }
 
 .tickerItem:hover {

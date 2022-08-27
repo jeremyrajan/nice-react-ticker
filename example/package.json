@@ -10,6 +10,9 @@
     "react-dom": "^18.2.0",
     "react-scripts": "^5.0.1"
   },
+  "devDependencies": {
+    "nth-check": ">=2.0.1"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
