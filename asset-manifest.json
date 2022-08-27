@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/nice-react-ticker/static/css/main.cbde69ac.css",
-    "main.js": "/nice-react-ticker/static/js/main.cece38a5.js",
+    "main.js": "/nice-react-ticker/static/js/main.af687ccd.js",
     "index.html": "/nice-react-ticker/index.html",
     "main.cbde69ac.css.map": "/nice-react-ticker/static/css/main.cbde69ac.css.map",
-    "main.cece38a5.js.map": "/nice-react-ticker/static/js/main.cece38a5.js.map"
+    "main.af687ccd.js.map": "/nice-react-ticker/static/js/main.af687ccd.js.map"
   },
   "entrypoints": [
     "static/css/main.cbde69ac.css",
-    "static/js/main.cece38a5.js"
+    "static/js/main.af687ccd.js"
   ]
 }
